@@ -1,0 +1,1 @@
+var country = "united states"; var countryisocode = "usa"; var state = "california"; var metro = "san francisco-oak-san jose"; var metrocode = "807"; var postcode = "94118"; var offset = "-700"; var dst = "y"; var countrycode = "840"; var connection = "broadband"; 
